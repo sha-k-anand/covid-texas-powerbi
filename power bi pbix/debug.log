@@ -1,0 +1,6 @@
+[0817/092013.853:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0817/092013.853:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\shaka\AppData\Local\Power BI Desktop\User Data\Crashpad\attachments\0ade95da-ce18-4e89-8168-58ce13956e10: The system cannot find the path specified. (0x3)
+[0817/104154.040:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0817/104154.042:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\shaka\AppData\Local\Power BI Desktop\User Data\Crashpad\attachments\c7f23aa4-0fb4-4909-b310-bdd55b7fdb8c: The system cannot find the path specified. (0x3)
+[0817/104154.047:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\shaka\AppData\Local\Power BI Desktop\User Data\Crashpad\attachments\46f1d670-4304-4b51-a82f-83ffdc3789fe: The system cannot find the path specified. (0x3)
+[0817/104154.050:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\shaka\AppData\Local\Power BI Desktop\User Data\Crashpad\attachments\1eabf773-8fa3-4133-beee-d2ea2d435d12: The system cannot find the path specified. (0x3)
